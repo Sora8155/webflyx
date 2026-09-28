@@ -1,0 +1,18 @@
+secure/
+guilty_pleasures.md
+advert.html
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment folder (if you used one)
+venv/
+env/
+
+# OS-specific junk files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE settings
+.vscode/
+.idea/
